@@ -35,7 +35,7 @@ javac Main.java
     java Main
 
 Example execution:
-```
+
 ------- Gerador de Senhas -------
 Nível de segurança: Básica(1), Média(2), Forte(3)
 Digite o nível de segurança da senha: 3
