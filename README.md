@@ -23,13 +23,13 @@ This is a Java password generator that creates random passwords with different s
 
 
 2.Navigate to the project folder:
-
-```cd password-generator```
-
+```
+cd password-generator
+```
 3.Compile the code:
-
-```javac Main.java```
-
+```
+javac Main.java
+```
 4.Run the code:
 
     java Main
