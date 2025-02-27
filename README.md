@@ -18,10 +18,9 @@ This is a Java password generator that creates random passwords with different s
 ### Steps to run the code
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/GuilhermesFreitas/password-generator.git
-
-
+```
+  git clone https://github.com/GuilhermesFreitas/password-generator.git
+```
 2.Navigate to the project folder:
 ```
 cd password-generator
@@ -34,7 +33,7 @@ javac Main.java
 
     java Main
 
-Example execution:
+## Example execution:
 ```
 ------- Gerador de Senhas -------
 Nível de segurança: Básica(1), Média(2), Forte(3)
