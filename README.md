@@ -19,7 +19,7 @@ This is a Java password generator that creates random passwords with different s
 
 1. Clone the repository:
 ```
-  git clone https://github.com/GuilhermesFreitas/password-generator.git
+git clone https://github.com/GuilhermesFreitas/password-generator.git
 ```
 2.Navigate to the project folder:
 ```
