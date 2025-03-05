@@ -19,11 +19,11 @@ This is a Java password generator that creates random passwords with different s
 
 1. Clone the repository:
 ```
-git clone https://github.com/GuilhermesFreitas/temperature-Converter.git
+git clone https://github.com/GuilhermesFreitas/password-generator.git
 ```
 2.Navigate to the project folder:
 ```
-cd temperature-Converter
+cd password-generator
 ```
 3.Compile the code:
 ```
@@ -32,4 +32,5 @@ javac Main.java
 4.Run the code:
 
     java Main
+
 
