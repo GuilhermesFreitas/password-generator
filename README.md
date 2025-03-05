@@ -19,11 +19,11 @@ This is a Java password generator that creates random passwords with different s
 
 1. Clone the repository:
 ```
-git clone https://github.com/GuilhermesFreitas/password-generator.git
+git clone https://github.com/GuilhermesFreitas/temperature-Converter.git
 ```
 2.Navigate to the project folder:
 ```
-cd password-generator
+cd temperature-Converter
 ```
 3.Compile the code:
 ```
@@ -33,11 +33,3 @@ javac Main.java
 
     java Main
 
-## Example execution:
-```
-------- Gerador de Senhas -------
-Nível de segurança: Básica(1), Média(2), Forte(3)
-Digite o nível de segurança da senha: 3
-Quantos caracteres? (entre 8 e 50): 12
-Sua senha foi gerada: r5@Hj6m*2k9
-Dica: Antes de salvar a senha em um gerenciador de senhas, adicione uma palavra aleatória ao final da senha. Uma palavra aleatória foi gerada caso queira usar: adventure
